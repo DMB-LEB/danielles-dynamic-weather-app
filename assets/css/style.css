@@ -1,0 +1,26 @@
+#title {
+    font-family: 'Andale Mono', 'monospace', 'sans-serif';
+    font-size: largest;
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(to left,rgba(255, 116, 2, 0.662),rgba(46, 40, 231, 0.742));
+    padding: 50px;
+    margin: 0px;
+    border: 0px;
+    border-radius: 12px;
+}
+
+#searchBar {
+    font-family: 'Andale Mono', 'monospace', 'sans-serif';
+    padding-top: 65px;
+    padding-left: 25px;
+}   
+
+input {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    margin-left: 25px;
+  }
+  
