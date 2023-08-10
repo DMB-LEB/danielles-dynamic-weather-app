@@ -10,11 +10,8 @@ No installation necessary, can be accessed through any browser
 ## Usage
 Check your local weather or another location simply by typing in the city's name and clicking the search button. This allows you to view current weather as well as a 5 day forecast.
 
-## Images
+## Images and link
 ![Alt text](assets/images/weatherAppOne.png)
 ![Alt text](assets/images/weatherAppTwo.png)
 ![Alt text](assets/images/weatherAppThree.png)
-
-
-
-
+https://dmb-leb.github.io/danielles-dynamic-weather-app/ 
