@@ -18,18 +18,30 @@ body {
     font-family: 'verdana', 'sans-serif';
     color:rgb(54, 54, 54);
     padding-top: 65px;
+    margin-left: 10px;
 }   
 
-  #fiveDay {
+#citySearchForm {
+    margin-left: 10px;
+    width: 40%;
+}
+  
+.weatherData {
+    margin-left: 10px;
+    font-family: 'verdana', 'sans-serif';
+    color:rgb(54, 54, 54);
+}
+
+#fiveDay {
     font-family: 'verdana', 'sans-serif';
     color:rgb(54, 54, 54);
     padding-top: 80px;
-    padding-left: 25px;
     float: left;
+    margin-left: 10px;
   }
-  
-.weatherData {
-    font-family: 'verdana', 'sans-serif';
-    color:rgb(54, 54, 54);
+
+#recentSearch {
+    margin-left: 10px;
+
 }
 
